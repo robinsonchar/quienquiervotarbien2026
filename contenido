@@ -1,0 +1,95 @@
+{
+  "documento": {
+    "titulo": "Guía para Sobrevivir al Caos Digital: Elecciones Colombia 2026",
+    "nivel_confianza": "Alta",
+    "introduccion": {
+      "contexto": "30 días para la primera vuelta presidencial en Colombia",
+      "publico_objetivo": "Jóvenes entre 16 y 25 años",
+      "problematica": "Desorden informativo y dependencia de algoritmos en la toma de decisiones",
+      "objetivo": "Evitar engaños y proteger la capacidad de elegir libremente"
+    },
+    "modulos": [
+      {
+        "id": 1,
+        "nombre": "Conceptos básicos",
+        "glosario": {
+          "fake_news": "Término paraguas para mentiras con apariencia de noticia; usado como arma política para atacar verdades incómodas",
+          "desinformacion": "Mentiras fabricadas con mala intención para engañar, manipular o ganar dinero",
+          "misinformation": "Información errónea compartida sin intención de hacer daño (ej. datos viejos)",
+          "posverdad": "Priorización de las emociones sobre los hechos; compartir algo porque 'se siente' real"
+        }
+      },
+      {
+        "id": 2,
+        "nombre": "Psicología de la creencia",
+        "conceptos": {
+          "sesgo_confirmacion": "Tendencia a creer solo lo que refuerza la opinión propia",
+          "efecto_verdad_ilusoria": "La repetición de una mentira genera familiaridad y se confunde con la verdad",
+          "infoxicacion": "Cansancio cerebral por bombardeo de datos que anula el análisis crítico",
+          "anzuelo_emocional": "Uso de rabia o miedo para apagar la parte racional y forzar el compartido"
+        }
+      },
+      {
+        "id": 3,
+        "nombre": "Tecnología y Expansión",
+        "infraestructura": {
+          "algoritmos_recomendacion": "Sistemas que crean burbujas de filtro para retener al usuario",
+          "bots_y_granjas_trolls": "Cuentas automatizadas o pagadas para simular tendencias falsas",
+          "economia_atencion": "Negocio basado en clics (clickbait) donde las mentiras son baratas de producir",
+          "deepfakes": "IA utilizada para imitar voz y gestos de candidatos en videos falsos"
+        }
+      },
+      {
+        "id": 4,
+        "nombre": "Impacto Electoral",
+        "fenomenos": {
+          "polarización": "División de la sociedad en 'nosotros contra ellos' rompiendo el diálogo",
+          "ataque_registraduria": "Narrativa de fraude para desanimar el voto joven",
+          "camaras_eco": "Agrupación en redes de personas que piensan igual",
+          "microtargeting": "Uso de datos para enviar mensajes personalizados basados en miedos específicos"
+        }
+      },
+      {
+        "id": 5,
+        "nombre": "Casos Prácticos Colombia 2026",
+        "simulaciones": [
+          {
+            "caso": "Video fuera de contexto",
+            "trama": "Candidato recibiendo dinero (soborno aparente)",
+            "realidad": "Video real de hace 15 años en contexto legal"
+          },
+          {
+            "caso": "Encuesta de WhatsApp",
+            "trama": "Imagen con logos de medios serios alterando posiciones de candidatos",
+            "realidad": "Uso de Photoshop; la encuesta no existe en la web oficial"
+          },
+          {
+            "caso": "Subsidio fantasma",
+            "trama": "Promesa de bono 'Ingreso Solidario 2.0' por votar",
+            "realidad": "Táctica de phishing para capturar datos o comprar votos"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "nombre": "Guía de Detección (Malicia Indígena)",
+        "checklist": [
+          "Verificar si la fuente es un medio conocido o cuenta recién creada",
+          "Sospechar de titulares que causan rabia o miedo extremo",
+          "Confirmar si cita personas, documentos o instituciones oficiales",
+          "Realizar búsqueda cruzada en Google (buscar en Colombia Check o La Silla Vacía)",
+          "Revisar errores de ortografía, exceso de mayúsculas o signos de admiración",
+          "Verificar la fecha para evitar noticias viejas recicladas"
+        ]
+      }
+    ],
+    "reflexiones_finales": {
+      "preguntas": [
+        "¿Muestra mi feed opiniones distintas a la mía?",
+        "¿Verifiqué el último post político que compartí con rabia?",
+        "¿Cómo explicaría una noticia falsa a mi familia sin pelear?"
+      ],
+      "conclusion": "El mayor acto de rebeldía es pensar por uno mismo; no ser un eslabón en la cadena de la mentira"
+    }
+  }
+}
